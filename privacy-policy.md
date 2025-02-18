@@ -74,7 +74,7 @@ We may use **trusted third-party services** to improve our App. These services m
 - App performance tracking  
 - Crash reporting  
 
-### Expo APIs (if applicable)  
+### Expo API  
 - Core functionality for React Native  
 
 ### Data Security & Storage  
